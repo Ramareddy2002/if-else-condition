@@ -21,4 +21,9 @@ else:
  Hi rama reddy
  eligible for vote
   '''
-          
+   ''' 
+Expected output
+enter input ram
+enter age 17
+Sorry! ram
+Not eligible for vote
